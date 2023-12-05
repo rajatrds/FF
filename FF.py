@@ -332,5 +332,3 @@ def b(uid,pwx,tl):
                 break
             else:
                 continue
-        
-        

@@ -329,6 +329,4 @@ def b(uid,pwx,tl):
                 print(f'\r\033[1;92m=[💚]=COOKIE : '+coki)
                 oks.append(cid)
                 open('/sdcard/ATIK-ok.txt', 'a').write(uid+' | '+ps+' | '+uid+'\n')
-                break
-            else:
-                continue
+                
